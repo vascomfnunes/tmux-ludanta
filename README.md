@@ -1,6 +1,6 @@
 # Ludanta
 
-**Ludanta (Esperanto for playing) is a simple plugin to display what's currently playing on a MPD (Music Player Daemon) server.
+Ludanta (Esperanto for playing) is a simple plugin to display what's currently playing on a MPD (Music Player Daemon) server.
 
 Makes use of MPC to obtain the relevant metadata.
 
